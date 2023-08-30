@@ -20,8 +20,6 @@
 - Scikit-Learn
 - Power Bi
 - Tableau
-- Statistical Analysis
-- Data Science
 
 
 🌱 Currently exploring Recommendation System
