@@ -4,7 +4,7 @@
 
 🌐 www.linkedin.com/in/shreyadw
 
-📚 Pursuing Master of Science in Computer Science - Data Science from University of Southern California
+📚 Completed Master of Science in Computer Science - Data Science from University of Southern California
 
 🔍 I love exploring complex datasets, finding hidden insights, and building predictive models to solve real-world problems. My expertise includes:
 
